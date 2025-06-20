@@ -1,0 +1,10 @@
+# Тестовые данные
+valid_phone = "9000000000"
+valid_email = "9kvoh@punkproof.com"
+valid_login = "test_login"
+valid_account = "123456789012"
+valid_password = "testRT211"
+invalid_password = "Invalidpass"
+invalid_account = "000000000000"
+unregistered_email = "unreg@example.com"
+new_password = "211testRT211"
